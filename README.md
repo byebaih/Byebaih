@@ -1,6 +1,7 @@
 <img src="https://cdn.discordapp.com/attachments/1054770371699691571/1054770414460616774/about_me.png" />
-## 🔘𝙱𝙰𝙲𝙺𝙶𝚁𝙾𝚄𝙽𝙳 𝙲𝚁𝙴𝙳𝙸𝚃
-> (Banner) TOGA HIMIKO▕ url ("https://itsukakendo.tumblr.com/post/181273369690/toga-himiko-favorite-villain")
+
+## 🔘𝙱𝙰𝙲𝙺𝙶𝚁𝙾𝚄𝙽𝙳 𝙲𝚁𝙴𝙳𝙸𝚃 
+> (Banner) TOGA HIMIKO▕ url ("https://itsukakendo.tumblr.com/post/181273369690/toga-himiko-favorite-villain") <br>
 
 ## 🌟𝙰𝙱𝙾𝚄𝚃 𝙼𝙴
 > ● Nickname  : Bye (Byebaih) <br>
