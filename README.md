@@ -27,7 +27,7 @@
 > ▕ Mui (🟢) <br>
 > ▕ Mei (🟢) <br>
 
+## ❤️‍🩹 𝙼𝚄𝙸 𝙰𝙽𝙳 𝙼𝙴𝙸
 
-<style=width:300px;height:150px;>
-  <img src="https://cdn.discordapp.com/attachments/1053586142198505493/1053586196946759700/banner.png" />
-<style>
+<img src="https://cdn.discordapp.com/attachments/1053586142198505493/1053586196946759700/banner.png" />
+
