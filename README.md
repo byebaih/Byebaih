@@ -11,7 +11,7 @@
 > 
 > ❏ Connnections ❏
 > - Discord  ▕ A RealAxilities # 0 0 0 1 <br>
->   📀Discord badge : Bravary , Active Developer , subscriber (Discrod nitro) <br>
+>   📀Discord badge : Bravary , Active Developer , subscriber (Discord nitro) <br>
 > - Facebook ▕ Byebaihh Servs <br>
 > - Spotify  ▕ Jacken Ckxz <br>
 > - Github   ▕ byebaih / byebaihh_servc <br>
