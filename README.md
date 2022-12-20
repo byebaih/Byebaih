@@ -26,7 +26,7 @@
 > ▕ Mui (🔴) <br>
 > ▕ Mei (🔴) <br>
 > - Second Edition : (Upgraded from the First Edition) <br>
-> (17/12/2022) Improved to slash commands support
+> (17/12/2022) Improved to slash commands support <br>
 > ▕ Mui (🟢) <br>
 > ▕ Mei (🟢) <br>
 
