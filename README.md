@@ -1,14 +1,14 @@
 <img src="https://cdn.discordapp.com/attachments/1054770371699691571/1054770414460616774/about_me.png" />
 
 ## 🌟𝙰𝙱𝙾𝚄𝚃 𝙼𝙴
-> ● Nickname  : Bye (Byebaih)
-> ● Age       : -- Let you guess
-> ● Hobby     : Sleeping 💤
-> ❏ Connnections
-> - Discord ▕ A RealAxilities # 0 0 0 1
-> - Facebook▕ Byebaihh Servs
-> - Spotify ▕ Jacken Ckxz
-> - Github  ▕ byebaih / byebaihh_servc
+> ● Nickname  : Bye (Byebaih) <br>
+> ● Age       : -- Let you guess <br>
+> ● Hobby     : Sleeping 💤 <br>
+> ❏ Connnections <br>
+> - Discord ▕ A RealAxilities # 0 0 0 1 <br>
+> - Facebook▕ Byebaihh Servs <br>
+> - Spotify ▕ Jacken Ckxz <br>
+> - Github  ▕ byebaih / byebaihh_servc <br>
  
 ## 🌟𝙰𝙱𝙾𝚄𝚃 𝙼𝚈 𝙿𝚁𝙾𝙹𝙴𝙲𝚃𝚂
 
