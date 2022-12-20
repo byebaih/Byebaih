@@ -18,8 +18,14 @@
 > 
 > ❏ Discord Bots ❏ <br>
 > - First Edition : <br>
-> ▕ Mui (1043865118653546589) <br>
-> ▕ Mei (1046261833994084393) <br>
-> - Second Edition : (Upgraded from First Edition) <br>
-> ▕ Mui (1043865118653546589) <br>
-> ▕ Mei (1046261833994084393) <br>
+> ▕ Mui (🔴) <br>
+> ▕ Mei (🔴) <br>
+> - Second Edition : (Upgraded from the First Edition) <br>
+> ▕ Mui (🟢) <br>
+> ▕ Mei (🟢) <br>
+
+
+## 🔘𝙱𝙰𝙲𝙺𝙶𝚁𝙾𝚄𝙽𝙳 𝙲𝚁𝙴𝙳𝙸𝚃
+> (Banner) TOGA HIMIKO▕ url ("https://itsukakendo.tumblr.com/post/181273369690/toga-himiko-favorite-villain")
+
+<img src="https://cdn.discordapp.com/attachments/1053586142198505493/1053586196946759700/banner.png" />
