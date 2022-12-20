@@ -28,5 +28,6 @@
 > ▕ Mei (🟢) <br>
 
 
-
-<img src="https://cdn.discordapp.com/attachments/1053586142198505493/1053586196946759700/banner.png" />
+<style=width:300px;height:150px;>
+  <img src="https://cdn.discordapp.com/attachments/1053586142198505493/1053586196946759700/banner.png" />
+<style>
