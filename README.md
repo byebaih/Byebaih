@@ -27,6 +27,20 @@
 > ▕ Mui (🟢) <br>
 > ▕ Mei (🟢) <br>
 
+## 🌟𝙰𝙱𝙾𝚄𝚃 𝙼𝚈 𝚃𝙴𝙰𝙼
+> 📀Axilities team ▕  (Owner) 👑 <br>
+>  - Application <br>
+>  - UI Library (for roblox game) <br>
+>  - Bot discord <br>
+> ❏ Server Link ▕ Direct Message to me
+
+
+> 📀Ayaka teams    ▕  (Admin) 🔧 <br>
+>  - Bot discord <br>
+>  - Making a banner <br>
+>  - Editing about video <br>
+>  ❏ Server Link ▕ Direct Message to me
+
 ## ❤️‍🩹 𝙼𝚄𝙸 𝙰𝙽𝙳 𝙼𝙴𝙸
 
 <img src="https://cdn.discordapp.com/attachments/1053586142198505493/1053586196946759700/banner.png" />
