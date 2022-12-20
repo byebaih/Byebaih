@@ -1,8 +1,1 @@
-<p align="center">
-  <img src="https://static.planetminecraft.com/files/profile_banner/2412009_2.jpg"&text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
-
-
-<p align="center">
-  <img src="https://static.planetminecraft.com/files/profile_banner/2412009_2.jpg?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
