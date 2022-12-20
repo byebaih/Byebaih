@@ -9,10 +9,10 @@
 > ● Hobby     : Sleeping 💤 <br>
 > 
 > ❏ Connnections ❏
-> - Discord ▕ A RealAxilities # 0 0 0 1 <br>
-> - Facebook▕ Byebaihh Servs <br>
-> - Spotify ▕ Jacken Ckxz <br>
-> - Github  ▕ byebaih / byebaihh_servc <br>
+> - Discord  ▕ A RealAxilities # 0 0 0 1 <br>
+> - Facebook ▕ Byebaihh Servs <br>
+> - Spotify  ▕ Jacken Ckxz <br>
+> - Github   ▕ byebaih / byebaihh_servc <br>
  
 ## 🌟𝙰𝙱𝙾𝚄𝚃 𝙼𝚈 𝙿𝚁𝙾𝙹𝙴𝙲𝚃𝚂
 
