@@ -5,7 +5,7 @@
 > ● Age       : -- Let you guess <br>
 > ● Hobby     : Sleeping 💤 <br>
 > 
->      ❏ Connnections <br>
+> ❏ Connnections ❏
 > - Discord ▕ A RealAxilities # 0 0 0 1 <br>
 > - Facebook▕ Byebaihh Servs <br>
 > - Spotify ▕ Jacken Ckxz <br>
