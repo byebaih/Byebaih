@@ -13,12 +13,13 @@
  
 ## 🌟𝙰𝙱𝙾𝚄𝚃 𝙼𝚈 𝙿𝚁𝙾𝙹𝙴𝙲𝚃𝚂
 
-> We've discord bot to playing a music 
-> We're trying to make a application to secure your device (Byebaih Security)
-> ❏ Discord Bots
-> - First Edition :
-> ▕ Mui (1043865118653546589)
-> ▕ Mei (1046261833994084393)
-> - Second Edition : (Upgraded from First Edition)
-> ▕ Mui (1043865118653546589)
-> ▕ Mei (1046261833994084393)
+> We've discord bot to playing a music <br>
+> We're trying to make a application to secure your device (Byebaih Security) <br>
+> 
+> ❏ Discord Bots ❏ <br>
+> - First Edition : <br>
+> ▕ Mui (1043865118653546589) <br>
+> ▕ Mei (1046261833994084393) <br>
+> - Second Edition : (Upgraded from First Edition) <br>
+> ▕ Mui (1043865118653546589) <br>
+> ▕ Mei (1046261833994084393) <br>
